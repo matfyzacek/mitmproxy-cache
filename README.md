@@ -3,7 +3,7 @@ Simple mitmproxy HTTPS web cache.
 ## How to install
 Clone the repo:
 `git clone https://github.com/matfyzacek/mitmproxy-cache/`
-Download mitmproxy and setup your browser.
+Download mitmproxy, and setup your browser to trust mitmproxy certificate.
 Then run:
 `mitmproxy -s cache.py`
-And setup your system to use the proxy. It listens for connections on 
+Final step is to setup system to use mitmproxy as proxy.
