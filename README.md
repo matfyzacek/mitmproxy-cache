@@ -10,4 +10,4 @@ Then run:
 `mitmproxy -s cache.py`
 Final step is to setup system to use mitmproxy as proxy.
 ## !!warning!!
-It may break some websites. Please be craful
+It may break some websites. Please be careful.
